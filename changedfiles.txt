@@ -1,5 +1,6 @@
+yarn remove react-native-mmkv
 yarn add @react-native-async-storage/async-storage
- yarn remove react-native-keyboard-controller
+yarn remove react-native-keyboard-controller
 
 store.ts
 store.test.ts
